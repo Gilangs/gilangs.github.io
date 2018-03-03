@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Gilang's Pages
+  ![Image](https://2.bp.blogspot.com/-8iCFPfUxDYg/Wj_FZmatrOI/AAAAAAAAAY8/R00d_KqVfPUBqlZhHfntNVNEFuA2fAWCACLcBGAs/s320/4274187-jason_voorhees_colored_by_likwidlead-d3bqrat.jpg)
+### Description
 
-You can use the [editor on GitHub](https://github.com/Gilangs/gilangs.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Saya Membuat page ini hanya untuk menyimpan file web saja.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jika Kalian Ingin Kenal Lebih Dekat Dengan Saya, kalian bisa kunjungi web pribadi milik saya atau bisa melihat bio yang akan saya tulis dibawah ini, ataauuu lagi kalian bisa nanya di [Ask.fm saya! @IDLang](https://ask.fm/idlang)
 
-### Markdown
+### BIO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pekenalkan, nama saya gilang saya tinggal di jawa barat, saya masih smp kelas 3, dan saya anak ke-3.
+Hobi saya maen game dan ngoding..
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gilangs/gilangs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Ini Situs Web Saya](https://www.idlang.me/) Dan Jangan Lupa Juga buat liat devianart aku [@IDLang](https://idlang.deviantart.com)
